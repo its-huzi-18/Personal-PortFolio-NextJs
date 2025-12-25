@@ -42,7 +42,7 @@ A simple currency converter built with HTML, CSS, and JavaScript that converts b
           tittle="RPS Game"
           projectName="RPS Game"
           projectImage="/projectImages/RPS.jpeg"
-          projectWebLink="https://rock-paper-scissor-huzaifa.netlify.app/"
+          projectWebLink="https://rock-paper-scissor-game-mu-ebon.vercel.app/
           description="A basic Rock Paper Scissors game made with HTML, CSS, and JavaScript, where players compete against the computer."
           index={10}
         />
