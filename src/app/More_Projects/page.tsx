@@ -41,7 +41,7 @@ A simple currency converter built with HTML, CSS, and JavaScript that converts b
         <ProjectData
           tittle="RPS Game"
           projectName="RPS Game"
-          projectImage="/projectImages/RPS.jpeg"
+          projectImage="/projectImages/RPS.png"
           projectWebLink="https://rock-paper-scissor-game-mu-ebon.vercel.app/
           description="A basic Rock Paper Scissors game made with HTML, CSS, and JavaScript, where players compete against the computer."
           index={10}
